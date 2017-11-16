@@ -1,0 +1,14 @@
+{
+    "DASHBOARD": {
+      "PERMISSIONS": [
+        "READ_INVENTORY_DASHBOARD",
+        "READ_CONNECTION_DASHBOARD"
+      ]
+    },
+    "USER": {
+      "PERMISSIONS": [
+        "MANAGE_DEPARTMENT",
+        "MANAGE_USER"
+      ]
+    }
+}
